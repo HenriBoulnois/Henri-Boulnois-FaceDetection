@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Henri.Boulnois.FaceDetection", "Henri.Boulnois.FaceDetection\Henri.Boulnois.FaceDetection.csproj", "{140C68A7-4B1D-4AD7-8250-B7DA33F723B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Henri.Boulnois.FaceDetection.tests", "tests\Henri.Boulnois.FaceDetection.tests\Henri.Boulnois.FaceDetection.tests.csproj", "{B33A3F1E-CB5C-4064-BB39-F1020EECD180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Henri.Boulnois.FaceDetection.Console", "console\Henri.Boulnois.FaceDetection.Console\Henri.Boulnois.FaceDetection.Console.csproj", "{AFB58036-34DD-436E-A82D-306187D13602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Henri.Boulnois.FaceDetection.WebApi", "WebApi\Henri.Boulnois.FaceDetection.WebApi\Henri.Boulnois.FaceDetection.WebApi.csproj", "{D4E5AA88-8E11-4538-8BCA-66AF528FE88A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{140C68A7-4B1D-4AD7-8250-B7DA33F723B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140C68A7-4B1D-4AD7-8250-B7DA33F723B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140C68A7-4B1D-4AD7-8250-B7DA33F723B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140C68A7-4B1D-4AD7-8250-B7DA33F723B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33A3F1E-CB5C-4064-BB39-F1020EECD180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33A3F1E-CB5C-4064-BB39-F1020EECD180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33A3F1E-CB5C-4064-BB39-F1020EECD180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33A3F1E-CB5C-4064-BB39-F1020EECD180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFB58036-34DD-436E-A82D-306187D13602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB58036-34DD-436E-A82D-306187D13602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB58036-34DD-436E-A82D-306187D13602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB58036-34DD-436E-A82D-306187D13602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E5AA88-8E11-4538-8BCA-66AF528FE88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E5AA88-8E11-4538-8BCA-66AF528FE88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E5AA88-8E11-4538-8BCA-66AF528FE88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E5AA88-8E11-4538-8BCA-66AF528FE88A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
